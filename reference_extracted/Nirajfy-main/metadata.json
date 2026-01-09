@@ -1,0 +1,7 @@
+{
+  "name": "Gemini-Fi - AI Music Experience",
+  "description": "A high-fidelity Spotify-inspired music streaming UI powered by Gemini for intelligent recommendations and AI-curated playlists.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
